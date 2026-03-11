@@ -98,7 +98,7 @@ OmniOS follows a modular bridge architecture:
 
 ## 👤 Creator
 
-Created with ❤️ by **[uitachi18](https://github.com/uitachi18)**.
+Created with ❤️ by **[Gaurav](https://github.com/uitachi18)**.
 
 ---
 
